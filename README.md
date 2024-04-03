@@ -1,3 +1,3 @@
 Hi, i'm iTsMaaT!
-I'm currently learning C++ and will soon start Java,
+I've first learned the basics of C++, but I now have been working with Nodejs for over a year.
 that's pretty much it.
