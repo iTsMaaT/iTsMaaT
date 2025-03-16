@@ -14,7 +14,6 @@ I'm a developer who started with C++ but have been working with **Node.js** for 
 
 ## 🔥 Notable Projects  
 
-- **[discord-player](https://github.com/Androz2091/discord-player)** – Contributing to this open-source Discord music library 🎵  
 - **[WD-40](https://github.com/iTsMaaT/WD-40)** – Powerful and feature-rich music anf fun bot for servers 🤖  
 - **Self-hosted Services** – Game servers, Discord bots, and upcoming blog hosting 📡  
 
