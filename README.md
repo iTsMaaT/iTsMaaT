@@ -14,8 +14,8 @@ I'm a developer who started with C++ but have been working with **Node.js** for 
 
 ## Notable Projects  
 
-- **[WD-40](https://github.com/iTsMaaT/WD-40)** – Powerful and feature-rich music anf fun bot for servers 🤖  
-- **Self-hosted Services** – Game servers, Discord bots, and upcoming blog hosting 📡  
+- **[WD-40](https://github.com/iTsMaaT/WD-40)** – Powerful and feature-rich music anf fun bot for servers
+- **Self-hosted Services** – Game servers, Discord bots, and upcoming blog hosting
 
 ## Where to Find Me  
 
